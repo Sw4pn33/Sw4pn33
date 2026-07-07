@@ -32,32 +32,12 @@ Security researcher and tool developer focused on **Cyber Threat Intelligence**,
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td valign="top">
+![stats](https://github-readme-stats.vercel.app/api?username=sw4pn33&show_icons=true&bg_color=0d1117&border_color=1A2840&icon_color=00D9FF&title_color=00D9FF&text_color=D8E4F0&border_radius=8&count_private=true&include_all_commits=true&hide_border=false)
+![streak](https://streak-stats.demolab.com/?user=sw4pn33&background=0d1117&border=1A2840&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=D8E4F0&dates=4A6080&border_radius=8)
 
-![stats](https://github-readme-stats.vercel.app/api?username=sw4pn33&show_icons=true&theme=transparent&border_color=1A2840&icon_color=00D9FF&title_color=00D9FF&text_color=D8E4F0&border_radius=8&count_private=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw4pn33&bg_color=0d1117&border_color=1A2840&title_color=00D9FF&text_color=D8E4F0&border_radius=8&layout=compact&count_private=true&hide_border=false)
 
-</td>
-<td valign="top">
-
-![streak](https://streak-stats.demolab.com/?user=sw4pn33&theme=transparent&border=1A2840&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=D8E4F0&dates=4A6080&border_radius=8)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw4pn33&theme=transparent&border_color=1A2840&title_color=00D9FF&text_color=D8E4F0&border_radius=8&layout=compact&count_private=true)
-
-</td>
-<td valign="top">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sw4pn33&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=3)](https://github.com/sw4pn33)
-
-</td>
-</tr>
-</table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sw4pn33&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6)](https://github.com/sw4pn33)
 
 </div>
 
@@ -122,7 +102,7 @@ Security researcher and tool developer focused on **Cyber Threat Intelligence**,
 
 ### `> activity --graph`
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=sw4pn33&bg_color=090E14&color=4A6080&line=00D9FF&point=D8E4F0&area=true&area_color=00D9FF&hide_border=true&radius=6)](https://github.com/sw4pn33)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=sw4pn33&bg_color=0d1117&color=4A6080&line=00D9FF&point=D8E4F0&area=true&area_color=00D9FF&hide_border=true&radius=6)](https://github.com/sw4pn33)
 
 ---
 
