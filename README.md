@@ -32,10 +32,10 @@ Security researcher and tool developer focused on **Cyber Threat Intelligence**,
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=sw4pn33&show_icons=true&bg_color=0d1117&border_color=1A2840&icon_color=00D9FF&title_color=00D9FF&text_color=D8E4F0&border_radius=8&count_private=true&include_all_commits=true&hide_border=false)
-![streak](https://streak-stats.demolab.com/?user=sw4pn33&background=0d1117&border=1A2840&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=D8E4F0&dates=4A6080&border_radius=8)
+![stats](https://github-readme-stats.vercel.app/api?username=sw4pn33&show_icons=true&bg_color=0d1117&border_color=1A2840&icon_color=00D9FF&title_color=00D9FF&text_color=D8E4F0&border_radius=8&hide_border=false)
+![streak](https://streak-stats.demolab.com/?user=sw4pn33&background=0d1117&border=1A2840&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=D8E4F0&dates=4A6080)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw4pn33&bg_color=0d1117&border_color=1A2840&title_color=00D9FF&text_color=D8E4F0&border_radius=8&layout=compact&count_private=true&hide_border=false)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw4pn33&bg_color=0d1117&border_color=1A2840&title_color=00D9FF&text_color=D8E4F0&border_radius=8&layout=compact&hide_border=false)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sw4pn33&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6)](https://github.com/sw4pn33)
 
