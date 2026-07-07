@@ -32,12 +32,9 @@ Security researcher and tool developer focused on **Cyber Threat Intelligence**,
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=sw4pn33&show_icons=true&bg_color=0d1117&border_color=1A2840&icon_color=00D9FF&title_color=00D9FF&text_color=D8E4F0&border_radius=8&hide_border=false)
-![streak](https://streak-stats.demolab.com/?user=sw4pn33&background=0d1117&border=1A2840&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=D8E4F0&dates=4A6080)
+![metrics](https://raw.githubusercontent.com/Sw4pn33/Sw4pn33/main/metrics.base.svg)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw4pn33&bg_color=0d1117&border_color=1A2840&title_color=00D9FF&text_color=D8E4F0&border_radius=8&layout=compact&hide_border=false)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sw4pn33&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6)](https://github.com/sw4pn33)
+![langs](https://raw.githubusercontent.com/Sw4pn33/Sw4pn33/main/metrics.langs.svg)
 
 </div>
 
@@ -89,12 +86,10 @@ Security researcher and tool developer focused on **Cyber Threat Intelligence**,
 
 <div align="center">
 
-<a href="https://github.com/Sw4pn33/Easy-Hunt">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sw4pn33&repo=Easy-Hunt&theme=transparent&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=D8E4F0&border_radius=8" />
-</a>
-<a href="https://github.com/Sw4pn33/pixel-perfect-copy">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sw4pn33&repo=pixel-perfect-copy&theme=transparent&border_color=1A2840&title_color=D8E4F0&icon_color=00D9FF&text_color=4A6080&border_radius=8" />
-</a>
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Easy-Hunt**](https://github.com/Sw4pn33/Easy-Hunt) | `Node.js` `Puppeteer` `Express` | Smart bug bounty recon tool — 300+ Google dorks, contact extraction, bulk outreach |
+| [**TRAP Intel**](https://github.com/Sw4pn33/pixel-perfect-copy) | `React` `TypeScript` `ReactFlow` | Threat Recon & Attribution Platform — dark web recon, attribution graphs, threat actor tracking |
 
 </div>
 
